@@ -1,0 +1,31 @@
+
+.box{
+    width:500px;
+    height:500px;
+    margin:100px auto;
+    border-radius: 300px;
+    background-color: darkslateblue;
+}
+
+.box h1{
+    font-size:80px;
+}
+
+.pausado{
+    color:red;
+}
+
+.component{
+    padding-top:30%;
+    text-align:center;
+}
+
+button{
+    background-color:#404040;
+    color:#fff;
+    text-align: center;
+    padding:10px;
+    font-size:16px;
+    border-radius: 10px;;
+}
+
